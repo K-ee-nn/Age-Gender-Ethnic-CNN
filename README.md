@@ -1,5 +1,7 @@
 Age, Gender, Ethnic CNN
 -
+![](images/image1.png)
+
         -> GPU
         -> numpy
         -> pandas 
@@ -10,6 +12,10 @@ Age, Gender, Ethnic CNN
 How:
 -
 Please open on kaggle on local machine 
+
+![](images/image4.png)
+
+
 
 Contents:
 -
