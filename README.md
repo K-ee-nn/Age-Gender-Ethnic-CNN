@@ -1,5 +1,5 @@
-Age, Gender, Ethnic CNN
--
+# Age, Gender, Ethnic CNN
+
 ![](images/image1.png)
 
         -> GPU
@@ -29,5 +29,14 @@ We're going to make these three predictions:
         -> Age prediction
         -> Gender prediction
         -> Ethnicity prediction
+        
+        
+What is Convolutional Neural Networks?
+-
+
+![](images/image3.png)
+![](images/image2.png)
+
+
 
 
