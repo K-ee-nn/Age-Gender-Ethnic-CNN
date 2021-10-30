@@ -36,6 +36,7 @@ What is Convolutional Neural Networks?
 
 ![](images/image3.png)
 ![](images/image2.png)
+![](images/image5.png)
 
 
 
